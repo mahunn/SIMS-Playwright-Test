@@ -1,0 +1,34 @@
+{
+  "gradeditor": {
+    "username": "gradeditor",
+    "password": "M1fj2gm6",
+    "role": "Grad Editor in Registrar Office",
+    "displayName": "GRADEDITOR"
+  },
+  "firstSupervisor": {
+    "username": "parvin",
+    "password": "123",
+    "role": "1st Supervisor",
+    "displayName": "PARVIN",
+    "fullName": "Nayma Parvin"
+  },
+  "secondSupervisor": {
+    "username": "controller",
+    "password": "123",
+    "role": "2nd Supervisor",
+    "displayName": "CONTROLLER"
+  },
+  "testStudent": {
+    "studentId": "1811576",
+    "programCode": "43",
+    "name": "Md. Minhajul Abedin",
+    "degree": "Bachelor of Science in Electrical and Electronic",
+    "minor": "Mathematics - 21",
+    "minorValue": "21"
+  },
+  "invalidUser": {
+    "username": "invalid_user_99999",
+    "password": "WrongPassword!@#",
+    "expectedErrorMessage": "Invalid User ID or Password"
+  }
+}
